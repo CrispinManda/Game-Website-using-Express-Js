@@ -1,0 +1,20 @@
+{
+  "name": "gamingwebsite",
+  "version": "1.0.0",
+  "description": "A website for games",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cris",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "ejs-lint": "^2.0.0"
+  }
+}
